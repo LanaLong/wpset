@@ -4,7 +4,7 @@ Startkit
 ---
 JS modules project.. 
 
-[![](https://img.shields.io/badge/version-1.0.0-green)](https://img.shields.io/badge/version-1.0.0-green)
+[![](https://img.shields.io/badge/version-1.0.2-green)](https://img.shields.io/badge/version-1.0.2-green)
 ***
 Страница preview на [GitHub Pages](https://lanalong.github.io/wpset/)
 
@@ -33,3 +33,5 @@ JS, CSS, HTML, GIT, Webpack
 ***# deploy and build for production with minification***
 
 `npm run deploy`
+
+develop01 – version02 for webpack (minin)
